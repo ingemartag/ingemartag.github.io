@@ -1,6 +1,6 @@
 ---
 title: GDPR
-layout: sv_default
+layout: fi_default
 ---
 
 ## GDPR

@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: CV
 layout: sv_default
 ---
 

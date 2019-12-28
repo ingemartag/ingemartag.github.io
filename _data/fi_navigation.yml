@@ -1,0 +1,12 @@
+- name: Välitys
+  link: /fi/index.html
+- name: CV
+  link: /fi/cv.html
+- name: Lehdistö
+  link: /fi/press.html
+- name: GDPR
+  link: /fi/gdpr.html
+- name: Yhteys
+  link: /fi/contact.html
+- name: Svenska
+  link: /sv/index.html

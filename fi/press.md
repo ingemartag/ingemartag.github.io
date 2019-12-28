@@ -1,9 +1,9 @@
 ---
-title: Press
-layout: sv_default
+title: Lehdistö
+layout: fi_default
 ---
 
-## Press
+## Lehdistö
 
 Vasabladet 22.2.2012
 Ingemar Tåg startar ny fastighetsbyrå

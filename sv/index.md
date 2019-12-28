@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Fastighetsförmedling
 layout: sv_default
 ---
 ### Förmedlingsbyrå Ingemar Tåg Ab
