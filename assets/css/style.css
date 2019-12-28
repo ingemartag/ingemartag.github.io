@@ -35,7 +35,7 @@ h1,h2,h3 { line-height:1.2;}
 
 /* unvisited link */
 a:link {
-  color: #0051c9;
+  color: rgb(255, 188, 59);
   text-decoration: underline;
 }
 
