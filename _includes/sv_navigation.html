@@ -1,9 +1,9 @@
 <div class="topnav">
   <div class="topnav-left">
-    <strong>JOACIM TÅG</strong>
+    <strong><span style="color:rgb(154, 154, 154);">Ingemar</span> Tåg</strong>
   </div>
   <div class="topnav-right">
-    {% for item in site.data.navigation %}
+    {% for item in site.data.sv_navigation %}
     <a href="{{ item.link }}" {% if page.url == item.link %}class="active"{% endif %}>{{ item.name }}</a>
     {% endfor %}
   </div>

@@ -19,6 +19,7 @@ p {
 
 h1,h2,h3 { line-height:1.2;}
 
+
 .container {
   background: White;
   width: 100%;
@@ -40,19 +41,19 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: #7d013e;
+  color: rgb(150, 113, 0);
   text-decoration: underline;
 }
 
 /* mouse over link */
 a:hover {
-  color: #0051c9;
+  color: rgb(255, 188, 59);
   text-decoration: underline;
 }
 
 /* selected link */
 a:active {
-  color: #0051c9;
+  color: rgb(255, 188, 59);
   text-decoration: underline;
 }
 
@@ -77,8 +78,9 @@ ol,ul,li, ul ul, ul ol, ol ol, ol ul {
 .topnav {
   background-color: White;
   overflow: hidden;
+  color: Black;
 
-  /*color: Black;
+  /*
   text-align: left;
   padding: 14px 16px;
   text-decoration: none;
@@ -87,36 +89,56 @@ ol,ul,li, ul ul, ul ol, ol ol, ol ul {
 
 /* Style the links inside the navigation bar */
 .topnav a {
-float: left;
-color: Black;
-text-align: center;
-padding: 14px 16px;
-text-decoration: none;
-font-size: 17px;
+  float: left;
+  color: #454545;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
 }
 
 /* Change the color of links on hover */
 .topnav a:hover {
-background-color: White;
-color: black;
+background-color: rgb(255, 188, 59);
+color: #454545;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
-background-color: #454545;
-color: White;
+background-color: rgb(255, 188, 59);
+color: #454545;
 }
+
 
 /* Right-aligned section inside the top navigation */
 .topnav-right {
-float: right;
+  float: right;
 }
 
 .topnav-left {
   float: left;
   text-align: center;
-  font-size: 35px;
+  font-size: 42px;
 }
+
+.landing {
+  float: center;
+  color: #454545;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  }
+
+.landing a {
+    float: center;
+    color: #454545;
+    background-color: rgb(255, 188, 59);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
 
 @media print{
   body{
