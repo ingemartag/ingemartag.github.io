@@ -30,7 +30,7 @@ layout: fi_default
 * Englanti
 
 ### Nykyinen työpaikka
-* Förmedlingsbyrå – Välitystoimisto Ingemar Tåg Ab/Oy, VD
+* Förmedlingsbyrå – Välitystoimisto Ingemar Tåg Ab/Oy, VD 2012-
 
 ### Aikaisemmat työpaikat:
 *    Gränges Aluminium 1975-1976
@@ -42,24 +42,24 @@ layout: fi_default
 *    Kontiotuote Oy, edustaja 23.03.1982-09.07.1984
 *    Gullringshus Oy, edustaja. 09.01.1984-17.06.1985
 *    Gullringshus Oy, myyntijohtaja Finland 17.06.1985-19.01.1990
-*    Oy IiTee House Ab TJ 90-
-*    Fastighetsbyrå Mäntylä & Tåg Ab, 50% VD 93-06
-*    Aktia Fastighetsförmedling Vasa Ab, VD 06-09
+*    Oy IiTee House Ab TJ 1990-2012
+*    Fastighetsbyrå Mäntylä & Tåg Ab, 50% VD 1993-2006
+*    Aktia Fastighetsförmedling Vasa Ab, VD 2006-2009
 *    Vaasan Kaupunginteatteri, markkinointijohtaja 1.1 2010-30.5 2011
 
 ### Luottamustoimet
-*    Suomen kiintieistönvälittäjät ry.: hallituksen jäsen 2001-2007, 2014-
-*    Pohjanmaan kiinteistönvälittäjät ry.: puheenjohtaja 1999-2006, 2016-
-*    Suomen Yrittäjät ry: hallituksen jäsen 2005-2009, varajäsen 2015-2017, hallituksen jäsen 2018-
+*    Suomen kiintieistönvälittäjät ry.: hallituksen jäsen 2001-2007, 2014-2019
+*    Pohjanmaan kiinteistönvälittäjät ry.: puheenjohtaja 1999-2006, 2016-2018
+*    Suomen Yrittäjät ry: hallituksen jäsen 2005-2009, varajäsen 2015-2017, hallituksen jäsen 2018-2019, varajäsen 2020-
 *    Österbottens företagarförening rf.: hallituksen jäsen 1997-2002, puheenjohtaja 2012 –
 *    Driftingenjörsförbundet i Finland rf Österbottniska avdelningen: puheenjohtaja 1980-1987, hallituksen jäsen 2012
 *    Driftingenjörsförbundet i Finland rf: hallituksen jäsen 2012
 
 ### Asunto-osakeyhtiöt
-*    Puheenjohtaja Koulukatu 47, 2014-
+*    Puheenjohtaja Koulukatu 47, 2014-2019
 *    Hallituksen jäsen Rådhusgatan 19, 2005-2014
-*    Hallituksen jäsen Strandgatan 17, 2006-
-*    Hallituksen jäsen Säästötalo, 2005-
+*    Hallituksen jäsen Strandgatan 17, 2006-2019
+*    Hallituksen jäsen Säästötalo, 2005-2017
 *    Hallituksen jäsen Keskuskortteli , 2007-2017
 *    Puheenjohtaja Storalångg. 44, 2008-2017
 *    Hallituksen jäsen Rådhusborgen, 2009-2014
