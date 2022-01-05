@@ -4,9 +4,9 @@ layout: fi_default
 ---
 ### Kiinteistönvälitystoimisto Ingemar Tåg Oy
 
-<img src="/assets/pictures/ingemartag.jpg" align="right" hspace="20"> Kiinteistönvälitystoimisto Ingemar Tåg Oy tarjoaa ammattimaista, persoonallista ja laadukasta asuntojen, omakotitalojen, mökkien ja tonttien välitystä. Tarjoamme myös kiinteistöjen kirjallisia arviointeja. Lisäksi voimme toimia julkisena kaupanvahvistajana kiinteistökaupoissa sekä konsulttina kiinteistöjen yksityismyynnissä.
+<img src="/assets/pictures/ingemartag.jpg" align="right" hspace="20"> Kiinteistönvälitystoimisto Ingemar Tåg Oy tarjoaa ammattimaista, persoonallista ja laadukasta asuntojen, omakotitalojen, mökkien ja tonttien välitystä. Tarjoamme myös kiinteistöjen kirjallisia arviointeja. Lisäksi voimme toimia konsulttina kiinteistöjen yksityismyynnissä.
 
-Auktorisoidulla kiinteistönvälittäjällä ja insinöörillä Ingemar Tågilla on kiinteistöalan kokemusta vuodesta 1982 ja on tehnyt töitä välitysalalla vuodesta 1993. Käytämme aina ammattilaisvalokuvaajia taataksemme että sinun kohteesi parhaat puolet tulevat esiin.
+Auktorisoidulla kiinteistönvälittäjällä ja insinöörillä Ingemar Tågilla on kiinteistöalan kokemusta vuodesta 1982 ja on tehnyt töitä välitysalalla vuodesta 1993. Käytämme aina ammattilaisvalokuvaajia taataksemme että sinun kohteesi parhaat puolet tulevat esiin. Ingemar Tågista tuli Suomen Kiinteistöliiton kunniajäsen vuonna 2021.
 
 Ota meihin yhteyttä ja sovi ilmainen arviokäynti!
 

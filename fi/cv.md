@@ -56,6 +56,7 @@ layout: fi_default
 *    Driftingenjörsförbundet i Finland rf: hallituksen jäsen 2012
 
 ### Asunto-osakeyhtiöt
+*    Hallituksen jäsen Koulukatu 47, 2019-
 *    Puheenjohtaja Koulukatu 47, 2014-2019
 *    Hallituksen jäsen Rådhusgatan 19, 2005-2014
 *    Hallituksen jäsen Strandgatan 17, 2006-2019
@@ -71,5 +72,6 @@ layout: fi_default
 *    Kesämökkeily
 
 ### Muuta
-* Vuoden kiinteistönvälittäjä Suomessa- 1998 (Suomen Kiineistönvälittäjäliitto)
+* Kunniajäsen, Suomen Kiineistönvälittäjäliitto 2021-
+* Vuoden kiinteistönvälittäjä Suomessa 1998 (Suomen Kiineistönvälittäjäliitto)
 * Vaasan Asuntolehden perustaja ja toiminnan vetäjä (2001-2002)

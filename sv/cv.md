@@ -18,11 +18,11 @@ layout: sv_default
 * Elingenjörsexamen 1980
 
 ### Fortbildning
-* Svenska Handelshögskolan i Vasa , marknadsföring 1983
-* INSKO , ingenjörs kurser 1981-1985
+* Svenska Handelshögskolan i Vasa, marknadsföring 1983
+* INSKO, ingenjörs kurser 1981-1985
 * Fastighetsmäklarexamen 1997
-* Hyväksytty hallituksen jäsen HHJ , Auktoriserad styrelsemedlem (handelskammaren) 2007
-* Yritysjohtamisen erikoisammattitutkinto(YJE) ,Företagsledarens specialyrkesexamen (JTO) 2007-2009
+* Hyväksytty hallituksen jäsen HHJ, Auktoriserad styrelsemedlem (handelskammaren) 2007
+* Yritysjohtamisen erikoisammattitutkinto(YJE), Företagsledarens specialyrkesexamen (JTO) 2007-2009
 
 ### Språk
 * Svenska
@@ -58,6 +58,7 @@ layout: sv_default
 
 ### Bostadsbolagsstyrelser
 
+*     Styrelsemedlem Skolhusgatan 47, 2019-
 *     Styrelseordförande  Skolhusgatan 47, 2014-2019
 *     Styrelsemedlem Rådhusgatan 19, 2005-2014
 *     Styrelsemedlem Strandgatan 17, 2006-2019
@@ -73,7 +74,8 @@ layout: sv_default
 * Sommarstugan
 
 ### Övrigt
+* Hedersmedlem i Finlands fastighetsmäklarförbund rf) 2021-
 * Årets fastighetsmäklare i Finland 1998 (Finland fastighetsmäklarförbund rf)
 * Grundade och drev Vasa Bostadsblad 2001-2002 (Fastighetsmäklartidning)
-* Offentligt köpvittne 2016-
+* Offentligt köpvittne 2016-2021
 
