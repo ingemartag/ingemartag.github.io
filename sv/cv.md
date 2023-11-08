@@ -52,13 +52,13 @@ layout: sv_default
 *     Finlands fastighetsmäklarförbund rf: styrelsemedlem 2001-2007, 2014-2019
 *     Österbottens fastighetsmäklare rf: ordförande 1999-2006, 2014-2018
 *     Företagarna i Finland rf: styrelsemedlem 2005-2009, suppleant 2015-2017, styrelsemedlem 2017-2019, suppleant 2020-
-*     Österbottens företagareförening rf: ordinarie styrelsemedlem 1997-2002, ordförande 2012-
+*     Österbottens företagareförening rf: ordinarie styrelsemedlem 1997-2002, ordförande 2012-2021
 *     Driftingenjörsförbundet i Finland r.f. Österbottniska avdelningen: ordförande 1980 1987,styrelsemedlem 2012
 *     Driftingenjörsförbundet i Finland r.f.: styrelsemedlem 2012
 
 ### Bostadsbolagsstyrelser
 
-*     Styrelsemedlem Skolhusgatan 47, 2019-
+*     Styrelsemedlem Skolhusgatan 47, 2019-2022
 *     Styrelseordförande  Skolhusgatan 47, 2014-2019
 *     Styrelsemedlem Rådhusgatan 19, 2005-2014
 *     Styrelsemedlem Strandgatan 17, 2006-2019

@@ -51,12 +51,12 @@ layout: fi_default
 *    Suomen kiintieistönvälittäjät ry.: hallituksen jäsen 2001-2007, 2014-2019
 *    Pohjanmaan kiinteistönvälittäjät ry.: puheenjohtaja 1999-2006, 2016-2018
 *    Suomen Yrittäjät ry: hallituksen jäsen 2005-2009, varajäsen 2015-2017, hallituksen jäsen 2018-2019, varajäsen 2020-
-*    Österbottens företagarförening rf.: hallituksen jäsen 1997-2002, puheenjohtaja 2012 –
+*    Österbottens företagarförening rf.: hallituksen jäsen 1997-2002, puheenjohtaja 2012–2021
 *    Driftingenjörsförbundet i Finland rf Österbottniska avdelningen: puheenjohtaja 1980-1987, hallituksen jäsen 2012
 *    Driftingenjörsförbundet i Finland rf: hallituksen jäsen 2012
 
 ### Asunto-osakeyhtiöt
-*    Hallituksen jäsen Koulukatu 47, 2019-
+*    Hallituksen jäsen Koulukatu 47, 2019-2022
 *    Puheenjohtaja Koulukatu 47, 2014-2019
 *    Hallituksen jäsen Rådhusgatan 19, 2005-2014
 *    Hallituksen jäsen Strandgatan 17, 2006-2019
